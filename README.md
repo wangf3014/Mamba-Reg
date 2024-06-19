@@ -4,7 +4,7 @@
 
 - #### Arxiv: https://arxiv.org/pdf/2405.14858
 
-<img src="Assets\teaser.png" style="zoom: 25%;" />
+<img src="Assets\teaser.png" style="zoom: 20%;" />
 
 ## Models
 
