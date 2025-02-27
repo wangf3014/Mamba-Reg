@@ -2,6 +2,9 @@
 
 #### Official PyTorch implementation of Mamba<sup>&reg;</sup>, a strong vision backbone with pure Mamba blocks
 
+## Release
+- [Feb.26.2025] 📢 The paper is accepted by CVPR2025!.
+
 - #### Arxiv: https://arxiv.org/pdf/2405.14858
 
 <img src="Assets\teaser.png" width="80%" />
